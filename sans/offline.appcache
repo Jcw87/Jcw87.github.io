@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1456384981
+#1456471453
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -42,6 +42,9 @@ images/heartshard-sheet0.png
 images/heartshard-sheet1.png
 images/heartshard-sheet2.png
 images/strike-sheet0.png
+images/targetchoice-sheet0.png
+images/hp-sheet0.png
+images/kr-sheet0.png
 media/ding.ogg
 media/playerfight.ogg
 media/playerdamaged.ogg
@@ -67,5 +70,8 @@ icon-256.png
 loading-logo.png
 sans_intro.csv
 sans_bonegap1.csv
+sans_bonegap2.csv
+sans_bluebone.csv
+sans_platforms1.csv
 NETWORK:
 *

@@ -1,0 +1,6 @@
+0,CombatZoneResize,375,140,TLResume,,
+0,HeartTeleport,320,368,,,
+0,HeartMode,1,,,,
+0,TLPause,,,,,
+0,Platform,15,346,61,0,120
+5,EndAttack,,,,,
