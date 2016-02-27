@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1456471453
+#1456579957
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -73,5 +73,6 @@ sans_bonegap1.csv
 sans_bonegap2.csv
 sans_bluebone.csv
 sans_platforms1.csv
+sans_platforms2.csv
 NETWORK:
 *
