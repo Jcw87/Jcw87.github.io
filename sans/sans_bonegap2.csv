@@ -5,7 +5,7 @@
 0,SET,Loop,5,,,
 0,JMPZ,38,$Loop,,,
 0,SUB,Loop,$Loop,1,,
-0,RND,Time,5,,,
+0,RND,Time,4,,,
 0,MUL,Time,$Time,0.2,,
 0,ADD,Time,$Time,0.8,,
 0,RND,Jump,4,,,
@@ -34,5 +34,5 @@ $Time,BoneV,128,257,51,0,210
 0,BoneV,128,326,60,0,210
 0,BoneV,503,257,51,2,210
 0,BoneV,503,326,60,2,210
-0,JMPABS,6,,,,
+0.2,JMPABS,6,,,,
 2.2,EndAttack,,,,,
