@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1456616298
+#1456749328
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -15,6 +15,10 @@ images/combatzone.png
 images/combatzoneborder.png
 images/combatzoneclipper.png
 images/target-sheet0.png
+images/hp-sheet0.png
+images/kr-sheet0.png
+images/targetchoice-sheet0.png
+images/strike-sheet0.png
 images/sanshead-sheet0.png
 images/sansbody-sheet0.png
 images/sansbody-sheet1.png
@@ -35,16 +39,13 @@ images/bonefloorwarn.png
 images/battlefont.png
 images/sansfont.png
 images/defaultfont.png
+images/damagefont.png
 images/playerheart-sheet0.png
 images/playerheart-sheet1.png
 images/menuitem-sheet0.png
 images/heartshard-sheet0.png
 images/heartshard-sheet1.png
 images/heartshard-sheet2.png
-images/strike-sheet0.png
-images/targetchoice-sheet0.png
-images/hp-sheet0.png
-images/kr-sheet0.png
 media/ding.ogg
 media/playerfight.ogg
 media/playerdamaged.ogg
