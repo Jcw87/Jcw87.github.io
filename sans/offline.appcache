@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1456749328
+#1457003950
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -35,7 +35,7 @@ images/platform1.png
 images/platform2.png
 images/bonestabv.png
 images/bonestabh.png
-images/bonefloorwarn.png
+images/bonestabwarn.png
 images/battlefont.png
 images/sansfont.png
 images/defaultfont.png
@@ -79,8 +79,13 @@ sans_platforms3.csv
 sans_platforms4.csv
 sans_platformblaster.csv
 sans_platforms4hard.csv
-sans_bonedirection.csv
+sans_boneslideh.csv
 sans_bonegap1fast.csv
 sans_platformblasterfast.csv
+sans_spare.csv
+sans_bonestab1.csv
+sans_bonestab2.csv
+sans_boneslidev.csv
+sans_multi1.csv
 NETWORK:
 *
