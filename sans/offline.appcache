@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1457083300
+#1457246382
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -19,6 +19,7 @@ images/hp-sheet0.png
 images/kr-sheet0.png
 images/targetchoice-sheet0.png
 images/strike-sheet0.png
+images/combatzoneunclipper.png
 images/sanshead-sheet0.png
 images/sansbody-sheet0.png
 images/sansbody-sheet1.png
@@ -28,7 +29,6 @@ images/sanstorso-sheet0.png
 images/speechbubble-sheet0.png
 images/boneh.png
 images/bonev.png
-images/gasterblast.png
 images/gasterblaster-sheet0.png
 images/gasterblaster-sheet1.png
 images/platform1.png
@@ -84,11 +84,12 @@ sans_bonegap1fast.csv
 sans_platformblasterfast.csv
 sans_spare.csv
 sans_bonestab1.csv
-sans_bonestab1fast.csv
+sans_bonestab2.csv
 sans_boneslidev.csv
 sans_multi1.csv
 sans_randomblaster1.csv
 sans_multi2.csv
 sans_randomblaster2.csv
+sans_bonestab3.csv
 NETWORK:
 *
