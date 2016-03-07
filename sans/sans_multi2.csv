@@ -40,7 +40,7 @@
 0,BoneVRepeat,297,280,82,2,120,6,76
 1.9,JMPABS,3,,,,,,
 0,CombatZoneResizeInstant,121,276,526,391,,,
-0,HeartTeleport,169,376,,,,,
+0,HeartTeleport,168,376,,,,,
 0,HeartMode,1,,,,,,
 0,BoneVRepeat,297,364,20,2,120,6,76
 0,BoneVRepeat,345,280,82,0,120,6,76
@@ -64,7 +64,7 @@
 0,BoneV,639,319,65,2,240,,
 1.5,JMPABS,3,,,,,,
 0,CombatZoneResizeInstant,179,226,404,391,,,
-0,HeartTeleport,387,320,,,,,
+0,HeartTeleport,382,320,,,,,
 0,HeartMode,0,,,,,,
 0,SineBones,16,-20,300,55,,,
 1.7,JMPABS,3,,,,,,
